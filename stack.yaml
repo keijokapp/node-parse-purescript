@@ -1,0 +1,10 @@
+resolver: lts-20.9
+
+packages:
+- .
+
+extra-deps:
+- ../purescript
+- language-javascript-0.7.0.0@sha256:3eab0262b8ac5621936a4beab6a0f97d0e00a63455a8b0e3ac1547b4088dae7d,3898
+- process-1.6.13.1@sha256:c8bb8b7c993ff72d771381b3b56852dd154bce51880a24789c11f57b0688d353,2963
+- Cabal-3.6.3.0@sha256:ff97c442b0c679c1c9876acd15f73ac4f602b973c45bde42b43ec28265ee48f4,12459

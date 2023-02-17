@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "node-purescript-parser",
+  "version": "0.1.0",
+  "description": "A Purescript parser",
+  "homepage": "https://github.com/keijokapp/node-purescript-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keijokapp/node-purescript-parser"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib",
+    "postinstall": "node ./install.js"
+  },
+  "author": "Keijo Kapp",
+  "dependencies": {
+    "tar": "^6.1.11"
+  },
+  "keywords": [
+    "purescript"
+  ],
+  "license": "ISC"
+}
