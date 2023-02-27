@@ -18,6 +18,8 @@
   },
   "author": "Keijo Kapp",
   "dependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "tar": "^6.1.11"
   },
   "keywords": [

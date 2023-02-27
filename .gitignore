@@ -1,4 +1,4 @@
+/node_modules
 /.stack-work
 /.psc-ide-port
 *.cabal
-/output
